@@ -42,11 +42,9 @@ in advance to let me know when you plan to visit.
 - [Asking Questions](#asking-questions)
 - [Email Policy](#email-policy)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
-- [Supplemental Instruction](#supplemental-instruction)
 - [Academic Honesty](#academic-honesty)
 - [Classroom Policy](#classroom-policy)
 - [Students With Disabilities](#students-with-disabilities)
-- [Detailed Course Objectives](#detailed-course-objectives)
 - [Additional Resources](#additional-resources)
 
 ---------------------------------
@@ -86,25 +84,31 @@ Overview, Prerequisites, Outcomes
 ---------------------------------
 
 **Overview**  
-We will cover Chapters 1 through 6 of [the textbook](#textbook),
+
 which includes the following topics:
 
-1. Preliminaries  
-2. Functions, Limits, and the Derivative  
-3. Differentiation  
-4. Applications of the Derivative  
-5. Exponential and Logarithmic Functions  
-6. Integration  
+This course emphasizes the reading and writing of mathematical proofs realted to
+linear algebra. We will cover chapters most of Chapters 1--6 of [the textbook](#textbook).
+Some topics covered are listed below
+
++ Linear Equations, vectors, matrices  
++ Matrix Algebra  
++ Vector Spaces  
++ Projections, Linear transformations, determinants  
++ Eigenvalues, Eigenvectors  
++ Some applications if time permits  
 
 **Prerequisites**  
-Satisfactory performance on placement exam, 2 years of high school algebra, 1
-year of geometry.
+
+Math 165, Math 166 or equivalent, Math 201 at the same time or earlier; Math 265 also is suggested. 
 
 **Learning Outcomes**  
 
+Students will gain proficiency in reading and writing proofs, as well as solving
+computational problems, concerning the following topics: systems of linear equations,
+determinants, vector spaces, inner product spaces, linear transformations,
+eigenvalues and eigenvectors. 
 
-[Detailed Course Objectives](#detailed-course-objectives) below, or see the Math
-Department's generic Math 317 page at http://orion.math.iastate.edu/dept/CoursePages/317/
 
 Textbook Information
 --------------------
@@ -337,12 +341,6 @@ found at http://www.math.iastate.edu/Undergrad/AccommodationPol.html.
 
 
 ------------------------------------------------------------
-
-# Appendix
-
-Detailed Course Objectives
---------------------------
-
 
 Additional Resources
 --------------------
