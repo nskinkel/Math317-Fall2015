@@ -101,10 +101,9 @@ Math 165, Math 166 or equivalent, Math 201 at the same time or earlier; Math 265
 Students will gain proficiency in reading and writing proofs, as well as solving
 computational problems, concerning the following topics: systems of linear equations,
 determinants, vector spaces, inner product spaces, linear transformations,
-eigenvalues and eigenvectors. 
+eigenvalues and eigenvectors, diagonalization of linear transformations. 
 
-See the appendix below for a detailed list of
-[Course Objectives](#course-objectives).
+See the list of [Course Objectives](#course-objectives) below for more details.
 
 
 Textbook Information
@@ -337,9 +336,6 @@ found at http://www.math.iastate.edu/Undergrad/AccommodationPol.html.
 
 
 ------------------------------------------------------------
-
-## Appendix
-
 
 Course Objectives
 -----------------
