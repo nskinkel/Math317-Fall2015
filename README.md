@@ -45,6 +45,7 @@ in advance to let me know when you plan to visit.
 - [Academic Honesty](#academic-honesty)
 - [Classroom Policy](#classroom-policy)
 - [Students With Disabilities](#students-with-disabilities)
+- [Course Objectives](#course-objectives)
 - [Additional Resources](#additional-resources)
 
 ---------------------------------
@@ -101,6 +102,9 @@ Students will gain proficiency in reading and writing proofs, as well as solving
 computational problems, concerning the following topics: systems of linear equations,
 determinants, vector spaces, inner product spaces, linear transformations,
 eigenvalues and eigenvectors. 
+
+See the appendix below for a detailed list of
+[Course Objectives](#course-objectives).
 
 
 Textbook Information
@@ -333,6 +337,44 @@ found at http://www.math.iastate.edu/Undergrad/AccommodationPol.html.
 
 
 ------------------------------------------------------------
+
+## Appendix
+
+
+Course Objectives
+-----------------
+
++ Be able to reduce a matrix to row canonical form and use it to solve the
+  system of linear equations Ax = B and write solution as
+
+  x = a<sub>1</sub> x<sub>1</sub> + ... + a<sub>n</sub> x<sub>n</sub> 
+
++ Be able to prove that the row canonical form of a matrix is unique.  
++ Know the Elementary row operation matrices and use them in proofs.  
++ Know the Elementary column operation matrices and use them in proofs.  
++ Know the algebraic operations of matrices and proof of associativity.  
++ Know the characteristic polynomial, the relationship between the 
+  roots of the characteristic polynomial and the minimal polynomial. 
+  Know the relationship between these roots and the blocks of the 
+  Jordan Canonical Form.  
++ Know diagonalization of matrices and the theorems about its existance.  
++ Understand the definitions of linear independence and spanning and be 
+  able to prove every spanning set can be reduced to a basis and any
+  independent set can be augmented to a basis.  
++ Know the definition of a determinant as the signed volume of an ordered
+  simplex. and be able to prove the basic properties of the determinants from 
+  this definition, including  Det[AB] = Det[A] Det[B].  
++ Know the definition of a linear transformation and be able to set 
+  up the matrix of a linear transformation on a finite dimensional 
+  vector space.  
++ Know the definition of an eigenvalue and an eigenvector and be 
+  able to compute then for low dimension matrices.  
++ Know the basic properties of the dot product and how to compute 
+  distances from points to planes, points to lines, angles between 
+  planes, angles between lines.  Know the basic 3 dimensional 
+  constructions and their generalizations to higher dimensions 
+  including the distance formula.  
++ Know unit vectors and their uses in projections.
 
 Additional Resources
 --------------------
