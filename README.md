@@ -39,7 +39,7 @@ in advance to let me know when you plan to visit.
 - [Make-up Policy](#make-up-policy)
 - [Grading Policy](#grading-policy)
 - [Attendance](#attendance)
-- [Two Ways to Ask Questions](#two-ways-to-ask-questions)
+- [Asking Questions](#asking-questions)
 - [Email Policy](#email-policy)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
 - [Supplemental Instruction](#supplemental-instruction)
@@ -249,8 +249,8 @@ to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
 
 
-Two Best Ways to Ask Questions
-------------------------------
+Asking Questions
+----------------
 
 When you don't understand something, please ask a question!
 
