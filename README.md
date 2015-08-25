@@ -39,7 +39,7 @@ in advance to let me know when you plan to visit.
 - [Make-up Policy](#make-up-policy)
 - [Grading Policy](#grading-policy)
 - [Attendance](#attendance)
-- [3 Ways to Ask Questions](#3-ways-to-ask-questions)
+- [Two Ways to Ask Questions](#two-ways-to-ask-questions)
 - [Email Policy](#email-policy)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
 - [Supplemental Instruction](#supplemental-instruction)
@@ -249,14 +249,15 @@ to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
 
 
-3 Ways to Ask Questions
------------------------
+Two Best Ways to Ask Questions
+------------------------------
 
 When you don't understand something, please ask a question!
 
-1. **Lecture** The best time/place to ask a question is during lecture or recitation or office hours.
+1. **In Lecture.** The best time/place to ask a question is during lecture or recitation or office hours.
 
-2. **Piazza** Another good place to ask a question is online discussion forum.
+2. **On Piazza.** Another good place to ask a question is the online discussion
+   forum.
    This term we will be using [Piazza][] for class discussion and all students
    should enroll in this forum by visiting the [Piazza signup page][].
 
