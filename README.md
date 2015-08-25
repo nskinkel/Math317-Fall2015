@@ -80,18 +80,16 @@ Overview, Prerequisites, Outcomes
 
 **Overview**  
 
-which includes the following topics:
-
 This course emphasizes the reading and writing of mathematical proofs realted to
-linear algebra. We will cover chapters most of Chapters 1--6 of [the textbook](#textbook).
-Some topics covered are listed below
+linear algebra. We will cover chapters most of Chapters 1 through 6
+of [the textbook](#textbook). Some topics covered are the following:
 
-+ Linear Equations, vectors, matrices  
-+ Matrix Algebra  
-+ Vector Spaces  
-+ Projections, Linear transformations, determinants  
-+ Eigenvalues, Eigenvectors  
-+ Some applications if time permits  
++ Vectors, matrices, linear equations;  
++ Matrix algebra;  
++ Vector spaces;  
++ Projections, linear transformations, determinants;  
++ Eigenvalues, eigenvectors;  
++ Some applications if time permits.  
 
 **Prerequisites**  
 
