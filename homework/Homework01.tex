@@ -1,0 +1,113 @@
+\input{macros}
+%%test This is the Homework LaTeX template.  Use this file to fill in your solutions. 
+%%
+%% Notes: 
+%%    1. Write your answers inside a \begin{solution}...\end{solution} environment.
+%%
+%%    2. If you will use references, insert bibtex reference entries in the file
+%%       Math700.bib.  (Create that file if it doesn't yet exist.)
+%%
+%%    3. If you will use acronyms, please define them in the macros.tex file.
+%%
+%%    4. Please try to check that your file compiles:
+%%
+%%       Mac OS X users: you might try MacTeX. 
+%%       Windows users: you might try proTeXt. 
+%%       Linux users: most come with TeX; otherwise do a full install of TeXLive.
+%%
+%%       There is a Makefile in this directory, so on Linux you could just 
+%%       enter `make` to compile all the Homework*.tex files at once.
+%%
+%%    5. Please don't hesitate to inform the prof if you have trouble, or open
+%%       a ``New issue'' or create a new ``Wiki page'' on GitHub.  Otherwise,
+%%       send an email to williamdemeo@gmail.com.
+%%
+%%    6. It will probably be hard to keep everyone's notation consistent.
+%%       For the most basic symbols, we should have some conventions and use
+%%       LaTeX macros to keep the conventions consistent and easy to remember.
+%%       For example, to denote an algebra,
+         \newcommand\alg[1]{\ensuremath{\mathbf{#1}}}
+         \newcommand{\<}{\ensuremath{\langle}}
+         \renewcommand{\>}{\ensuremath{\rangle}}
+%%       So, an algebra in LaTeX is typed as $\alg{A} = \<A, F\>$.
+%%       Similarly, for a field, let's use:
+         \newcommand\fld[1]{\ensuremath{\mathbb{#1}}}
+%%       So, a field in LaTeX is typed as $\fld{F}$.
+
+
+         \newcommand\vx{\vec{x}}
+         \newcommand\vy{\vec{y}}
+         \newcommand\vz{\vec{z}}
+         \newcommand\vv{\vec{v}}
+         \newcommand\vw{\vec{w}}
+         \newcommand\Span{\ensuremath{\operatorname{Span}}}
+
+%%
+%%    7. Replace these names with yours!!!
+         \metadata{Name:}{HW 1 (due 2015/09/04)}
+         \author{NAME:}
+%%
+%%    8. Update the title and date as appropriate.
+         \title{Homework 1}
+         \date{Due: 4 September 2015}
+
+\begin{document}
+
+\maketitle
+
+
+\noindent {\bf General Hints:}
+When you are asked to ``show'' or ``prove'' something, you should make it a point to
+write down clearly the information you are given and what it is you are to show. One
+word of warning regarding the second part of Problem  1.1.22: 
+To say that $\vec{v}$ is a linear combination of $\vec{v}_1, \dots, \vec{v}_k$
+is to say that 
+$\vec{v} = c_1\vec{v}_1 + c_2\vec{v}_2 +\cdots + c_k\vec{v}_k$ for some scalars 
+$c_1,\dots, c_k$. These scalars
+will surely be different when you express a different vector $\vec{w}$ 
+as a linear combination of $\vec{v}_1, \dots, \vec{v}_k$, so be sure you give
+the scalars for $\vec{w}$ different names. \\
+\\
+(``SA 1.1.21'' means exercise 21 in Section 1.1 of textbook by 
+{\bf S}hifrin and {\bf A}dams.)\\[4pt]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{problem}[SA 1.1.21]
+Suppose $\vv, \vw \in \R^n$ and $c$ is a scalar. Prove that 
+$\Span (\vv + c\vw,\vw) = \Span (\vv,\vw)$. (See the blue box on p.~12 of the textbook.)
+\end{problem}
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{problem}[SA 1.1.22]
+Suppose the vectors $\vec{v}$ and $\vec{w}$ are both linear combinations of 
+$\vec{v}_1, \dots, \vec{v}_k$.
+\begin{enumerate}
+\item 
+Prove for any scalar $c$ that $c\vec{v}$ is a linear combination of 
+$\vec{v}_1,\dots, \vec{v}_k$.
+\item
+Prove that $\vec{v} + \vec{w}$ is a linear combination of 
+$\vec{v}_1,\dots,\vec{v}_k$.
+\end{enumerate}
+
+\end{problem}
+
+\newpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{problem}[SA 1.1.25]
+Suppose $\vx, \vy \in \R^n$ are nonparallel vectors. (Recall def, p.3 of text.)
+\begin{enumerate}
+\item 
+Prove that if $s\vx + t\vy = 0$, then $s = t = 0$. 
+(Hint: Show neither $s \neq 0$ nor $t \neq0$ is possible.)
+\item Prove that if $a\vx + b\vy = c\vx + d\vy$, then $a = c$ and $b = d$.
+\end{enumerate}
+\end{problem}
+%% \bibliographystyle{plain}
+%% \bibliography{refs}
+
+\end{document}

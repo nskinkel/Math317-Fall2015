@@ -4,6 +4,8 @@
 **Author:** Theodore Shifrin and Malcolm R. Adams  
 **Edition:** second  
 
+[Link to Google books page](https://books.google.com/books/about/Linear_Algebra.html?id=zWQkAAAAQBAJ)
+
 ## Contents
 
 **Chapter 1 Vectors and Matrices**
