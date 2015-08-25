@@ -340,9 +340,8 @@ found at http://www.math.iastate.edu/Undergrad/AccommodationPol.html.
 Course Objectives
 -----------------
 
-+ Be able to reduce a matrix to row canonical form and use it to solve the
-  system of linear equations Ax = B and write solution
-  as x = a<sub>1</sub> x<sub>1</sub> + ... + a<sub>n</sub> x<sub>n</sub>.  
++ Be able to reduce a matrix to row canonical form and solve the
+  system of linear equations Ax = B.  
 + Be able to prove that the row canonical form of a matrix is unique.  
 + Know the Elementary row operation matrices and use them in proofs.  
 + Know the Elementary column operation matrices and use them in proofs.  
