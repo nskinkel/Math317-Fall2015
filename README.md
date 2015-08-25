@@ -336,10 +336,11 @@ found at http://www.math.iastate.edu/Undergrad/AccommodationPol.html.
 
 Additional Resources
 --------------------
-+ [Piazza][]
-+ [ISU Math Department](http://www.math.iastate.edu/)
-+ [ISU Math Course Pages](http://www.math.iastate.edu/Directories/CoursePages.html)
-+ [Math Stackexchange](http://math.stackexchange.com/)
++ [Piazza][]  
++ [ISU Math Department](http://www.math.iastate.edu/)  
++ [ISU Math Course Pages](http://www.math.iastate.edu/Directories/CoursePages.html)  
++ [ISU Math 317 course page (2014)](http://orion.math.iastate.edu/hentzel/class.317.15/)  
++ [Math Stackexchange](http://math.stackexchange.com/)  
 
 [Piazza]: https://piazza.com/iastate/fall2015/math317/home
 [Piazza page]: https://piazza.com/iastate/fall2015/math317/home
