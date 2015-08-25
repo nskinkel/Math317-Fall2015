@@ -73,12 +73,7 @@ please keep track of your grades and refer to the
 
 Class Meeting Times
 -------------------
-**Lecture:** MWF 8--8:50am Carver 0001.
-
-**Recitation:**
-- Sec 4: T 8--8:50am Carver 0074.  
-- Sec 6: T 12:10--1pm Carver 0282.  
-- Sec 8: T 9--9:50am Beyer 2308.
+**Lecture:** MTTF 10--10:50am Carver 0001.
 
 Overview, Prerequisites, Outcomes
 ---------------------------------
@@ -168,7 +163,7 @@ Homework submitted at the end of class on the due date will be penalized
 10%. **Homework submitted after then end of class on the due date will not be
 accepted or graded.**  
 
-At least one (possibly more) of the lowest (or missed) homework scores
+At least one (possibly more) of the lowest or missed homework scores
 will be dropped and not counted toward the final course grade.
 *The 10 best homework scores will count toward the final grade.*
 
@@ -291,27 +286,26 @@ indicate which class you are in, your email may be ignored.
 Use of Electronics During Lecture
 ---------------------------------
 Silence and refrain from using all electronic devices (phones, ipods, tablets,
-microwave ovens, etc.) during class and exam periods.  The only exception to
-this policy is the use of computers or tablets for the purpose of referring to
-an electronic copy of the textbook, or the online (WebAssign) homework
-problems. Using a computer during lecture to check Facebook, for
-example, is totally unacceptable. Besides how this affects your own ability to
-focus on what is being taught in the lecture, computers can be very distracting 
-to other students. **Use of electronic devices in lecture for purposes unrelated
-to calculus will not be tolerated.**
+microwave ovens, etc.) during class and exam periods.
+Using a computer during lecture to check Facebook, for example, is totally
+unacceptable. Besides how this affects your own ability to focus on what is
+being taught in the lecture, computers can be very distracting to other
+students. **Use of electronic devices in lecture for purposes unrelated 
+to math will not be tolerated.**
 
 
 Academic Honesty
 ----------------
-Cheating will not be tolerated. Violations of this policy will be referred to
-and dealt with by the ISU Office of Judicial Affairs, in a  manner consistent
-with university regulations, which range from a warning to expulsion from the
-university.
+Cheating is unacceptable and will not be tolerated. Violations of this policy
+will be referred to and dealt with by the ISU Office of Judicial Affairs, in a
+manner consistent with university regulations, which range from a warning to
+expulsion from the university.
 
 
 Classroom Policy
 ----------------
-In this course, we follow the general university classroom policy: http://www.math.iastate.edu/Faculty/ClassPolicies.html
+In this course, we follow the general university classroom policy:
+http://www.math.iastate.edu/Faculty/ClassPolicies.html
 
 
 Students With Disabilities
