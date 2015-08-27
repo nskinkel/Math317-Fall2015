@@ -35,12 +35,15 @@
 %%       So, a field in LaTeX is typed as $\fld{F}$.
 
 
+         \newcommand\va{\vec{a}}
+         \newcommand\vu{\vec{u}}
+         \newcommand\vv{\vec{v}}
+         \newcommand\vw{\vec{w}}
          \newcommand\vx{\vec{x}}
          \newcommand\vy{\vec{y}}
          \newcommand\vz{\vec{z}}
-         \newcommand\vv{\vec{v}}
-         \newcommand\vw{\vec{w}}
          \newcommand\vzero{\vec{0}}
+         \newcommand\sP{\ensuremath{\mathscr P}}
          \newcommand\Span{\ensuremath{\operatorname{Span}}}
 
 %%
@@ -147,7 +150,7 @@ $\Span (\vv + c\vw,\vw) = \Span (\vv,\vw)$. (See the blue box on p.~12 of the te
 \begin{problem}[SA 1.1.22]
 Suppose the vectors $\vec{v}$ and $\vec{w}$ are both linear combinations of 
 $\vec{v}_1, \dots, \vec{v}_k$.
-\begin{enumerate}
+\begin{enumerate}[a.]
 \item 
 Prove for any scalar $c$ that $c\vec{v}$ is a linear combination of 
 $\vec{v}_1,\dots, \vec{v}_k$.
@@ -164,13 +167,58 @@ $\vec{v}_1,\dots,\vec{v}_k$.
 %--  PROBLEM 3  ---------------------------------------------------
 \begin{problem}[SA 1.1.25]
 Suppose $\vx, \vy \in \R^n$ are nonparallel vectors. (Recall def, p.3 of text.)
-\begin{enumerate}
+\begin{enumerate}[a.]
 \item 
-Prove that if $s\vx + t\vy = 0$, then $s = t = 0$. \\
+Prove that if $s\vx + t\vy = 0$, then $s = t = 0$. 
 (Hint: Show neither $s \neq 0$ nor $t \neq0$ is possible.)
 \item Prove that if $a\vx + b\vy = c\vx + d\vy$, then $a = c$ and $b = d$.
+(Hint: Use part a.)
 \end{enumerate}
 \end{problem}
+
+
+\newpage
+%%  PAGE 6  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%--  PROBLEM 4  ---------------------------------------------------
+\begin{problem}[SA 1.2.11]
+Suppose $\vx, \vv_1, \dots, \vv_k \in \R^n$ and $\vx$ is orthogonal to each of
+the vectors $\vv_1,\dots, \vv_k$. Show that $\vx$ is orthogonal to every linear
+combination $c_1 \vv_1 + c_2 \vv_2 + \cdots + c_k \vv_k$.
+\end{problem}
+
+\newpage
+%%  PAGE 7  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%--  PROBLEM 5  ---------------------------------------------------
+\begin{problem}[SA 1.2.18]
+Prove the triangle inequality: For all 
+$\vx, \vy \in \R^n$, $\|\vx + \vy\| \leq \|\vx\| + \|\vy\|$. \\
+(Hint: Use the dot product to calculate $\|\vx + \vy\|^2$.)
+\end{problem}
+
+\newpage
+%%  PAGE 8  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%--  PROBLEM 6  ---------------------------------------------------
+\begin{problem}[SA 1.3.12]
+Suppose $\va \neq \vzero$ and $\sP \subset \R^3$ is the plane through the origin
+with normal vector $\va$. 
+Suppose $\sP$ is spanned by $\vu$ and $\vv$.
+\begin{enumerate}[a.]
+\item 
+Suppose $\vu \cdot \vv = 0$. Show that for every $\vx \in \sP$, we have
+$\vx = \proj_\vu \vx + \proj_\vv \vx$.
+\item
+Suppose $\vu \cdot \vv = 0$. Show that for every $\vx \in \R^3$, we have
+$\vx = \proj_\va \vx + \proj_\vu \vx + \proj_\vv \vx$.\\
+(Hint: Apply part a. to the vector $\vx - \proj_\va \vx$.)
+\item
+Give an example to show the result of part a is false when $\vu$ and $\vv$ are
+not orthogonal. 
+\end{enumerate}
+\end{problem}
+
 %% \bibliographystyle{plain}
 %% \bibliography{refs}
 
