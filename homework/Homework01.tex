@@ -2,29 +2,30 @@
 %%test This is the Homework LaTeX template.  Use this file to fill in your solutions. 
 %%
 %% Notes: 
-%%    1. Write your answers inside a \begin{solution}...\end{solution} environment.
+%%    1. If possibly, try to write your answers inside a \begin{solution}...\end{solution}
+%%    environment.
 %%
-%%    2. If you will use references, insert bibtex reference entries in the file
-%%       Math317.bib.  (Create that file if it doesn't yet exist.)
+%%    2. If you will use acronyms, please define them in the macros.tex file.
 %%
-%%    3. If you will use acronyms, please define them in the macros.tex file.
-%%
-%%    4. Please try to check that your file compiles:
+%%    3. If you enter your answers into this Homework*.tex source file, you
+%%    will have to compile it into a pdf document.  There are a number of ways to
+%%    do that. Probably the easiest is to use the website called ShareLaTeX.com.
+%%    Alternatively,
 %%
 %%       Mac OS X users: you might try MacTeX. 
-%%       Windows users: you might try proTeXt. 
 %%       Linux users: most come with TeX; otherwise do a full install of TeXLive.
+%%       Windows users: try proTeXt maybe? (or switch to a real operating system!) 
 %%
 %%       There is a Makefile in this directory, so on Linux you could just 
 %%       enter `make` to compile all the Homework*.tex files at once.
 %%
-%%    5. Please don't hesitate to inform the prof if you have trouble, or open
-%%       a ``New issue'' or create a new ``Wiki page'' on GitHub.  Otherwise,
-%%       send an email to williamdemeo@gmail.com.
+%%    4. Please don't hesitate to inform the professor if you have trouble, or open
+%%       a ``New issue'' on GitHub or post to Piazza or ask in lecture.  Otherwise,
+%%       send an email to williamdemeo at gmail.
 %%
-%%    6. It will probably be hard to keep everyone's notation consistent.
-%%       For the most basic symbols, we should have some conventions and use
-%%       LaTeX macros to keep the conventions consistent and easy to remember.
+%%    5. Try to use standard notation, as used in class and in the textbook.
+%%       For the most basic symbols, you may wish to use LaTeX macros to keep 
+%%       the conventions you use consistent and easy to remember.
 %%       For example, to denote an algebra,
          \newcommand\alg[1]{\ensuremath{\mathbf{#1}}}
          \newcommand{\<}{\ensuremath{\langle}}
@@ -33,8 +34,10 @@
 %%       Similarly, for a field, let's use:
          \newcommand\fld[1]{\ensuremath{\mathbb{#1}}}
 %%       So, a field in LaTeX is typed as $\fld{F}$.
-
-
+%%
+%%       To make a boldface vector, use backslash v in front of the 
+%        letter and add a new command for that letter here or in 
+%        the macros.tex file:
          \newcommand\va{\vec{a}}
          \newcommand\vu{\vec{u}}
          \newcommand\vv{\vec{v}}
@@ -45,13 +48,13 @@
          \newcommand\vzero{\vec{0}}
          \newcommand\sP{\ensuremath{\mathscr P}}
          \newcommand\Span{\ensuremath{\operatorname{Span}}}
-
 %%
-%%    7. Replace these names with yours!!!
+%%    6. Insert your name here!!!
+%%%
          \metadata{Name:}{HW 1 (due 2015/09/04)}
          \author{NAME:}
 %%
-%%    8. Update the title and date as appropriate.
+%%    8. Update the title and date if necessary.
          \title{Math 317: Homework 1}
          \date{Due: 4 September 2015}
 
