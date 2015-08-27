@@ -40,6 +40,7 @@
          \newcommand\vz{\vec{z}}
          \newcommand\vv{\vec{v}}
          \newcommand\vw{\vec{w}}
+         \newcommand\vzero{\vec{0}}
          \newcommand\Span{\ensuremath{\operatorname{Span}}}
 
 %%
@@ -55,11 +56,11 @@
 
 \maketitle
 
-
+%%  PAGE 1  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \noindent {\bf General Hints:}
-When you are asked to ``show'' or ``prove'' something, you should make it a point to
-write down clearly the information you are given and what it is you are to show. One
-word of warning regarding the second part of Problem  1.1.22: 
+When you are asked to ``show'' or ``prove'' something, you should make it a
+point to write down clearly the information you are given and what it is you are
+to show. One word of warning regarding the second part of Problem  1.1.22: 
 To say that $\vec{v}$ is a linear combination of $\vec{v}_1, \dots, \vec{v}_k$
 is to say that 
 $\vec{v} = c_1\vec{v}_1 + c_2\vec{v}_2 +\cdots + c_k\vec{v}_k$ for some scalars 
@@ -71,15 +72,78 @@ the scalars for $\vec{w}$ different names. \\
 (``SA 1.1.21'' means exercise 21 in Section 1.1 of textbook by 
 {\bf S}hifrin and {\bf A}dams.)\\[4pt]
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%--  PROBLEM 0  ---------------------------------------------------
+\noindent {\it Problem} 0 (SA 1.1.28). Carefully prove the following properties
+of vector arithmetic. Justify all steps. 
+Optional: Give the geometric interpretation of each property in case 
+$n=2$ or $n=3$.  \\
+You are required to turn proofs for e. f. g. (but you are encouraged to try 
+them all).
+\begin{enumerate}[a.]
+\item 
+For all $\vx, \vy \in \R^n$ , $\vx + \vy = \vy + \vx$.
+\item 
+For all $\vx, \vy, \vz \in \R^n$, $(\vx + \vy) + \vz = \vx + (\vy + \vz)$.
+\item 
+For all $\vx\in \R^n$, $\vzero + \vx = \vx$ for all $\vx \in \R^n$.
+\item 
+For each $\vx\in \R^n$, there is a vector $−\vx$ so that $\vx + (−\vx) = \vzero$.
+\item 
+For all $c, d \in \R^n$ and $\vx \in \R^n$, $c(d\vx) = (cd)\vx$.
+\item 
+For all $c \in \R$ and $\vx, \vy \in \R^n$ , $c(\vx + \vy) = c\vx + c\vy$.
+\item 
+For all $c, d \in \R$ and $\vx \in \R^n$, $(c + d)\vx = c\vx + d\vx$.
+\item 
+For all $\vx \in \R^n$, $1\vx = \vx$.
+\end{enumerate}
+(If you will use this pdf to complete your homework, please write 
+your solutions to Problem~0 on the next page.)
+
+
+
+\newpage
+%%  PAGE 2  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{enumerate}
+\item[e.] {\bf Claim:}
+For all $c, d \in \R^n$ and $\vx \in \R^n$, $c(d\vx) = (cd)\vx$.
+\begin{proof}
+  ~
+\vskip5cm
+\end{proof}
+\item[f.] 
+For all $c \in \R$ and $\vx, \vy \in \R^n$ , $c(\vx + \vy) = c\vx + c\vy$.
+\begin{proof}
+  ~
+\vskip5cm
+\end{proof}
+\item[g.] 
+For all $c, d \in \R$ and $\vx \in \R^n$, $(c + d)\vx = c\vx + d\vx$.
+\begin{proof}
+  ~
+\vskip5cm
+\end{proof}
+
+\end{enumerate}
+
+
+
+\newpage
+%%  PAGE 3  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%--  PROBLEM 1  ---------------------------------------------------
 \begin{problem}[SA 1.1.21]
 Suppose $\vv, \vw \in \R^n$ and $c$ is a scalar. Prove that 
 $\Span (\vv + c\vw,\vw) = \Span (\vv,\vw)$. (See the blue box on p.~12 of the textbook.)
 \end{problem}
 
-\newpage
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+%%  PAGE 4  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%--  PROBLEM 2  ---------------------------------------------------
 \begin{problem}[SA 1.1.22]
 Suppose the vectors $\vec{v}$ and $\vec{w}$ are both linear combinations of 
 $\vec{v}_1, \dots, \vec{v}_k$.
@@ -95,14 +159,14 @@ $\vec{v}_1,\dots,\vec{v}_k$.
 \end{problem}
 
 \newpage
+%%  PAGE 5  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%--  PROBLEM 3  ---------------------------------------------------
 \begin{problem}[SA 1.1.25]
 Suppose $\vx, \vy \in \R^n$ are nonparallel vectors. (Recall def, p.3 of text.)
 \begin{enumerate}
 \item 
-Prove that if $s\vx + t\vy = 0$, then $s = t = 0$. 
+Prove that if $s\vx + t\vy = 0$, then $s = t = 0$. \\
 (Hint: Show neither $s \neq 0$ nor $t \neq0$ is possible.)
 \item Prove that if $a\vx + b\vy = c\vx + d\vy$, then $a = c$ and $b = d$.
 \end{enumerate}
