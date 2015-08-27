@@ -9,24 +9,24 @@ Students are advised to check this page often!
 M 8/24: Course intro, 1.1 Vectors  
 T 8/25: 1.1 Vectors and dot products  
 T 8/27: 1.2 Dot product  
-F 8/28: 1.2 Dot product and 2.1 Matrix operations  
+F 8/28: 1.2 Dot product  
 <!-- ;  **MLP Review 1: 1.1, 1.2**    -->
 
 ---------------------------------------------------------  
-M 8/31: 2.1 Matrix operations  
-T 9/1: 1.3 Hyperplanes  
+M 8/31: 1.3 Hyperplanes  
+T 9/1: 1.4 Gaussian Elimination  
 T 9/3: 1.4 Gaussian Elimination  
-F 9/4: 1.4 Gaussian Elimination; **HW 1 due** (1.1, 1.2, 2.1)  
+F 9/4: 1.5 Theory of Linear Systems; **HW 1 due** (1.1, 1.2, 2.1)  
 
 ---------------------------------------------------------  
 M 9/7: no class  
 T 9/8: 1.5 Theory of Linear Systems   
-T 9/10: 1.5 Theory of Linear Systems   
-F 9/11: 1.6 Applications; **HW 2 due** (1.3, 1.4)      
+T 9/10: 1.6 Applications  
+F 9/11: 1.6 Applications; **HW 2 due** (1.3, 1.4)  
 
 ---------------------------------------------------------  
-M 9/14: 1.6 Applications  
-T 9/15: 2.2 Linear Transformations  
+M 9/14: 2.1 Matrix operations  
+T 9/15: 2.1 Matrix operations  
 T 9/17: 2.2 Linear Transformations  
 F 9/18: 2.3 Inverse Matrices; **HW 3 due** (1.5, 1.6)  
 
